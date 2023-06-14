@@ -9,8 +9,9 @@ import androidx.compose.ui.tooling.preview.Preview
 @Composable
 fun MainScreen() {
     Surface {
-        Text(text = "TTTTTsasdas;ldkas")
+        Text(text = "[eq")
     }
+
 }
 
 @Preview()
